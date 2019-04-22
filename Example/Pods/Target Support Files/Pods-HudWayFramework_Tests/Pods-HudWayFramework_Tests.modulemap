@@ -1,0 +1,6 @@
+framework module Pods_HudWayFramework_Tests {
+  umbrella header "Pods-HudWayFramework_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "HudWayFramework",
+  "version": "0.1.0",
+  "summary": "A short description of HudWayFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/PPZDP/HudWayFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sawrysc@163.com": "jiarui.li@carrobot.com"
+  },
+  "source": {
+    "git": "https://github.com/PPZDP/HudWayFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HudWayFramework/Classes/**/*",
+  "public_header_files": "HudWayFramework/Classes/HUDWAYProjectManager.h",
+  "dependencies": {
+    "SSZipArchive": [
+
+    ],
+    "CocoaAsyncSocket": [
+
+    ]
+  }
+}

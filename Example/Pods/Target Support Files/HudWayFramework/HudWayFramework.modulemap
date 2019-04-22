@@ -1,0 +1,6 @@
+framework module HudWayFramework {
+  umbrella header "HudWayFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

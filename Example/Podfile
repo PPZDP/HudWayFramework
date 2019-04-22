@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'HudWayFramework_Example' do
+  pod 'HudWayFramework', :path => '../'
+
+  target 'HudWayFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
